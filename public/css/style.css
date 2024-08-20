@@ -685,7 +685,7 @@
      height: 100vh;
 }
  .slides-navigation a {
-     background: #d33b33;
+     background: #3693c6;
      position: absolute;
      height: 70px;
      width: 70px;
@@ -740,8 +740,8 @@
      border: 2px solid #ffffff;
 }
  .slides-pagination a.current{
-     background: #d33b33;
-     border: 2px solid #d33b33;
+     background: #338bd3;
+     border: 2px solid #338bd3;
 }
  .cover-slides p a{
      font-size: 24px;

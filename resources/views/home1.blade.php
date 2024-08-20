@@ -65,6 +65,7 @@
                                 </li><li>
                                     <i class="fab fa-opencart"></i> Travel
                                 </li>
+                                
                                 <li>
                                     <i class="fab fa-opencart"></i> Ekspor Impor
                                 </li>
@@ -121,13 +122,9 @@
                 </div>
                 <!-- /.navbar-collapse -->
             </div>
-           
-        
-            
         </nav>
         <!-- End Navigation -->
     </header>
-    <!-- End Main Top -->
 
     <!-- Start Top Search -->
     <div class="top-search">
@@ -140,170 +137,158 @@
         </div>
     </div>
     <!-- End Top Search -->
-<!-- Start All Title Box -->
-<div class="all-title-box">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <h2>M A R K E T</h2>
-               
-            </div>
+
+    <!-- Start Slider -->
+    <div id="slides-shop" class="cover-slides">
+        <ul class="slides-container">
+            <li class="text-left">
+                <img src="images/banner-01.jpg" alt="">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h1 class="m-b-20"><strong>Welcome To <br> Sophistic Group</strong></h1>
+                            <p class="m-b-40">The good intentions, kindness, and good deeds are intertwined within us</p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="text-center">
+                <img src="images/banner-02.jpg" alt="">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h1 class="m-b-20"><strong>Welcome To <br> Sophistic Group</strong></h1>
+                            <p class="m-b-40">We are grateful for the hard work and innovation of all Sophisticians<br> as well as the support of the community, particularly the people of Indonesia.</p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="text-right">
+                <img src="images/banner-03.jpg" alt="">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h1 class="m-b-20"><strong>Welcome To <br> Sophistic Group</strong></h1>
+                            <p class="m-b-40">
+                                We are on a mission to build an amazing ecosystem that will innovate the way we interact with each other,<br>transform Indonesia into an even better society over time.</p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+        <div class="slides-navigation">
+            <a href="#" class="next"><i class="fa fa-angle-right" aria-hidden="true"></i></a>
+            <a href="#" class="prev"><i class="fa fa-angle-left" aria-hidden="true"></i></a>
         </div>
     </div>
-</div>
-<!-- End All Title Box -->
+    <!-- End Slider -->
 
-    <!-- Start Products  -->
-    <div class="products-box">
+    <!-- Start About Page  -->
+    <div class="about-box-main">
         <div class="container">
             <div class="row">
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="special-menu text-center">
-                        <div class="button-group filter-button-group">
-                            <button class="active" data-filter="*">All</button>
-                            <button data-filter=".top-featured">Vitamin A</button>
-                            <button data-filter=".best-seller">Vitamin C & E</button>
-                        </div>
+                <div class="col-lg-6">
+                    <h2 class="noo-sh-title">SOPHISTIC GROUP</h2>
+                    <p><b>The good intentions, kindness and good deeds are intertwined within us.</b></p>
+                    <br><br><br><br><br><br>
+                    <p><b>by Fenomena Sofistica Mardlatun</b></p>
+                </div>
+                <div class="col-lg-6">
+                    <div class="banner-frame"> <img class="img-thumbnail img-fluid" src="images/logoo.jpg" alt="" />
                     </div>
                 </div>
             </div>
-
-            <div class="row special-list">
-                <div class="col-lg-3 col-md-6 special-grid best-seller">
-                    <div class="products-single fix">
-                        <div class="box-img-hover">
-                            <img src="images/market/ma3.png" class="img-fluid" alt="Image">
-                        </div>
-                        <div class="why-text">
-                            <h5><center>Vitamin C</center></h5>
-                        </div>
-                    </div>
+            <div class="row my-4">
                 </div>
-
-                <div class="col-lg-3 col-md-6 special-grid top-featured">
-                    <div class="products-single fix">
-                        <div class="box-img-hover">
-                            <img src="images/market/ma1.png" class="img-fluid" alt="Image">
-                        </div>
-                        <div class="why-text">
-                            <h5><center>Vitamin A</center></h5>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 special-grid top-featured">
-                    <div class="products-single fix">
-                        <div class="box-img-hover">
-                            <img src="images/market/ma2.png" class="img-fluid" alt="Image">
-                        </div>
-                        <div class="why-text">
-                            <h5><center>Vitamin A</center></h5>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 special-grid best-seller">
-                    <div class="products-single fix">
-                        <div class="box-img-hover">
-                            <img src="images/market/ma4.png" class="img-fluid" alt="Image">
-                        </div>
-                        <div class="why-text">
-                            <h5><center>Vitamin E</center></h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
-    <!-- End Products  -->
+    <!-- End Instagram Feed  -->
 
-   <!-- Start Footer  -->
-   <footer>
-    <div class="footer-main">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4 col-md-12 col-sm-12">
-                    <div class="footer-widget">
-                        <h4>About Sophistic Group</h4>
-                        <ul>
-                            <li><a href="/innovation">Our Vision</a></li>
-                            <li><a href="/innovation">Our Mission</a></li>
-                        </ul>
+    <!-- Start Footer  -->
+    <footer>
+        <div class="footer-main">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-12 col-sm-12">
+                        <div class="footer-widget">
+                            <h4>About Sophistic Group</h4>
+                            <ul>
+                                <li><a href="/innovation">Our Vision</a></li>
+                                <li><a href="/innovation">Our Mission</a></li>
+                            </ul>
+                        </div>
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-12 col-sm-12">
-                    <div class="footer-link">
-                        <h4>Information</h4>
-                        <div class="row">
-                            <div class="col-md-6 col-lg-4 col-xl-4">
-                                <div class="footer-link">
-                                    <ul>
-                                        <li><a href="/skincare">Skincare</a></li>
-                                        <li><a href="/cosmetics">Cosmetics</a></li>
-                                        <li><a href="/health">Health</a></li>
-                                        <li><a href="/market">Market</a></li>
-                                    </ul>
+                    <div class="col-lg-4 col-md-12 col-sm-12">
+                        <div class="footer-link">
+                            <h4>Information</h4>
+                            <div class="row">
+                                <div class="col-md-6 col-lg-4 col-xl-4">
+                                    <div class="footer-link">
+                                        <ul>
+                                            <li><a href="/skincare">Skincare</a></li>
+                                            <li><a href="/cosmetics">Cosmetics</a></li>
+                                            <li><a href="/health">Health</a></li>
+                                            <li><a href="/market">Market</a></li>
+                                        </ul>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-md-6 col-lg-4 col-xl-4">
-                                <div class="footer-link">
-                                    <ul>
-                                        <li><a href="/food">Food</a></li>
-                                        <li><a href="/fashion">Fashion</a></li>
-                                        <li><a href="/travel">Travel</a></li>
-                                        <li><a href="/eksporimpor">EksporImpor</a></li>
-                                    </ul>
+                                <div class="col-md-6 col-lg-4 col-xl-4">
+                                    <div class="footer-link">
+                                        <ul>
+                                            <li><a href="/food">Food</a></li>
+                                            <li><a href="/fashion">Fashion</a></li>
+                                            <li><a href="/travel">Travel</a></li>
+                                            <li><a href="/eksporimpor">EksporImpor</a></li>
+                                        </ul>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-12 col-sm-12">
-                    <div class="footer-link-contact">
-                        <h4>Contact Us</h4>
-                        <ul>
-                            <li>
-                                <p><i class="fas fa-map-marker-alt"></i>Address: Situbondo, East Java<br>INDONESIA<br> </p>
-                            </li>
-                            <li>
-                                <p><i class="fas fa-envelope"></i>Email: <a href="mailto:feno.sofies2910@gmail.com">feno.sofies2910@gmail.com</a></p>
-                            </li>
-                        </ul>
+                    <div class="col-lg-4 col-md-12 col-sm-12">
+                        <div class="footer-link-contact">
+                            <h4>Contact Us</h4>
+                            <ul>
+                                <li>
+                                    <p><i class="fas fa-map-marker-alt"></i>Address: Situbondo, East Java<br>INDONESIA<br> </p>
+                                </li>
+                                <li>
+                                    <p><i class="fas fa-envelope"></i>Email: <a href="mailto:feno.sofies2910@gmail.com">feno.sofies2910@gmail.com</a></p>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
+    </footer>
+    <!-- End Footer  -->
+
+    <!-- Start copyright  -->
+    <div class="footer-copyright">
+        <p class="footer-company">All Rights Reserved. &copy; 2024 <a href="#">Sophistic Group</a> 
+            <a href="#"></a></p>
     </div>
-</footer>
-<!-- End Footer  -->
+    <!-- End copyright  -->
 
-<!-- Start copyright  -->
-<div class="footer-copyright">
-    <p class="footer-company">All Rights Reserved. &copy; 2024 <a href="#">Sophistic Group</a> 
-        <a href="#"></a></p>
-</div>
-<!-- End copyright  -->
+    <a href="#" id="back-to-top" title="Back to top" style="display: none;">&uarr;</a>
 
-<a href="#" id="back-to-top" title="Back to top" style="display: none;">&uarr;</a>
-
-<!-- ALL JS FILES -->
-<script src="js/jquery-3.2.1.min.js"></script>
-<script src="js/popper.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<!-- ALL PLUGINS -->
-<script src="js/jquery.superslides.min.js"></script>
-<script src="js/bootstrap-select.js"></script>
-<script src="js/inewsticker.js"></script>
-<script src="js/bootsnav.js."></script>
-<script src="js/images-loded.min.js"></script>
-<script src="js/isotope.min.js"></script>
-<script src="js/owl.carousel.min.js"></script>
-<script src="js/baguetteBox.min.js"></script>
-<script src="js/form-validator.min.js"></script>
-<script src="js/contact-form-script.js"></script>
-<script src="js/custom.js"></script>
+    <!-- ALL JS FILES -->
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- ALL PLUGINS -->
+    <script src="js/jquery.superslides.min.js"></script>
+    <script src="js/bootstrap-select.js"></script>
+    <script src="js/inewsticker.js"></script>
+    <script src="js/bootsnav.js."></script>
+    <script src="js/images-loded.min.js"></script>
+    <script src="js/isotope.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/baguetteBox.min.js"></script>
+    <script src="js/form-validator.min.js"></script>
+    <script src="js/contact-form-script.js"></script>
+    <script src="js/custom.js"></script>
 </body>
 
 </html>

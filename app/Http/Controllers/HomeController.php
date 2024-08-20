@@ -17,4 +17,9 @@ class HomeController extends Controller
         //
         return view('innovation');
     }
+    public function home1()
+    {
+        //
+        return view('home1');
+    }
 }

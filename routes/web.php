@@ -53,8 +53,13 @@ Route::get('/eksporimpor', function () {
 Route::get('/innovation', function () {
     return view('innovation');
 });
+
 Route::get('/travel', function () {
     return view('travel');
+});
+
+Route::get('/home1', function () {
+    return view('home1');
 });
 
 
