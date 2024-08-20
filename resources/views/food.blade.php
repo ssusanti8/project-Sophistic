@@ -187,32 +187,32 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                     <div class="shop-cat-box">
-                        <img class="img-fluid" src="images/skincare/sk1.png" alt="" />
-                        <a class="btn hvr-hover" href="#">Serum</a>
+                        <img class="img-fluid" src="images/food/fo1.png" alt="" />
+                        <a class="btn hvr-hover" href="#">Naget</a>
                     </div>
                     <div class="shop-cat-box">
-                        <img class="img-fluid" src="images/skincare/sk2.png" alt="" />
-                        <a class="btn hvr-hover" href="#">Sunscreen</a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                    <div class="shop-cat-box">
-                        <img class="img-fluid" src="images/skincare/sk3.png" alt="" />
-                        <a class="btn hvr-hover" href="#">Face Wash</a>
-                    </div>
-                    <div class="shop-cat-box">
-                        <img class="img-fluid" src="images/skincare/sk4.png" alt="" />
-                        <a class="btn hvr-hover" href="#">Moisturizer</a>
+                        <img class="img-fluid" src="images/food/fo3.png" alt="" />
+                        <a class="btn hvr-hover" href="#">French Fries</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                     <div class="shop-cat-box">
-                        <img class="img-fluid" src="images/skincare/sk5.png" alt="" />
-                        <a class="btn hvr-hover" href="#">Vitamin</a>
+                        <img class="img-fluid" src="images/food/fo2.png" alt="" />
+                        <a class="btn hvr-hover" href="#">Sausage</a>
                     </div>
                     <div class="shop-cat-box">
-                        <img class="img-fluid" src="images/skincare/sk6.png" alt="" />
-                        <a class="btn hvr-hover" href="#">Facial Cleanser</a>
+                        <img class="img-fluid" src="images/food/fo4.png" alt="" />
+                        <a class="btn hvr-hover" href="#">Fried Meatballs</a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                    <div class="shop-cat-box">
+                        <img class="img-fluid" src="images/food/fo5.png" alt="" />
+                        <a class="btn hvr-hover" href="#">Donuts</a>
+                    </div>
+                    <div class="shop-cat-box">
+                        <img class="img-fluid" src="images/food/fo6.png" alt="" />
+                        <a class="btn hvr-hover" href="#">Fried Pickles</a>
                     </div>
                 </div>
             </div>

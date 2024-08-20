@@ -176,21 +176,10 @@
                 <div class="col-lg-3 col-md-6 special-grid best-seller">
                     <div class="products-single fix">
                         <div class="box-img-hover">
-                            <img src="images/market/ma1.png" class="img-fluid" alt="Image">
-                        </div>
-                        <div class="why-text">
-                            <h5><center>Vitamin A</center></h5>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 special-grid top-featured">
-                    <div class="products-single fix">
-                        <div class="box-img-hover">
                             <img src="images/market/ma3.png" class="img-fluid" alt="Image">
                         </div>
                         <div class="why-text">
-                            <h5><center>Vitamin A</center></h5>
+                            <h5><center>Vitamin C</center></h5>
                         </div>
                     </div>
                 </div>
@@ -201,7 +190,18 @@
                             <img src="images/market/ma1.png" class="img-fluid" alt="Image">
                         </div>
                         <div class="why-text">
-                            <h5><center>Vitamin C</center></h5>
+                            <h5><center>Vitamin A</center></h5>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 special-grid top-featured">
+                    <div class="products-single fix">
+                        <div class="box-img-hover">
+                            <img src="images/market/ma2.png" class="img-fluid" alt="Image">
+                        </div>
+                        <div class="why-text">
+                            <h5><center>Vitamin A</center></h5>
                         </div>
                     </div>
                 </div>
