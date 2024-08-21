@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('home');
+    return view('home1');
 });
 
 
@@ -58,8 +58,16 @@ Route::get('/travel', function () {
     return view('travel');
 });
 
-Route::get('/home1', function () {
-    return view('home1');
+Route::get('/home', function () {
+    return view('home');
+});
+
+Route::get('/divisi', function () {
+    return view('divisi');
+});
+
+Route::get('/career', function () {
+    return view('career');
 });
 
 

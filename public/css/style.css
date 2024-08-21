@@ -1347,6 +1347,114 @@
      padding: 70px 0px;
      position: relative;
 }
+.all-title-boxskincare{
+    background: url("../images/skincare.png") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    background-attachment: fixed;
+    padding: 70px 0px;
+    position: relative;
+}
+.all-title-boxcosmetic{
+    background: url("../images/cosmetic.png") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    background-attachment: fixed;
+    padding: 70px 0px;
+    position: relative;
+}
+.all-title-boxhealth{
+    background: url("../images/health.png") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    background-attachment: fixed;
+    padding: 70px 0px;
+    position: relative;
+}
+.all-title-boxmarket{
+    background: url("../images/market.png") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    background-attachment: fixed;
+    padding: 70px 0px;
+    position: relative;
+}
+.all-title-boxfood{
+    background: url("../images/food.png") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    background-attachment: fixed;
+    padding: 70px 0px;
+    position: relative;
+}
+.all-title-boxtravel{
+    background: url("../images/travel.png") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    background-attachment: fixed;
+    padding: 70px 0px;
+    position: relative;
+}
+.all-title-boxekspor{
+    background: url("../images/ekspor.png") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    background-attachment: fixed;
+    padding: 70px 0px;
+    position: relative;
+}
+.all-title-boxdivisi{
+    background: url("../images/divisi.png") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    background-attachment: fixed;
+    padding: 70px 0px;
+    position: relative;
+}
+.all-title-boxabout{
+    background: url("../images/about.png") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    background-attachment: fixed;
+    padding: 70px 0px;
+    position: relative;
+}
  .all-title-box::before{
      background: rgba(0,0,0,0.6);
      content: "";

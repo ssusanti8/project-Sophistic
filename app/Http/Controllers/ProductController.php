@@ -52,6 +52,11 @@ class ProductController extends Controller
         //
         return view('eksporimpor');
     }
+    public function divisi()
+    {
+        //
+        return view('divisi');
+    }
         
     
 }

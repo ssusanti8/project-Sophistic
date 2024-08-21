@@ -96,14 +96,14 @@
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-menu" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
                     <i class="fa fa-bars"></i>
                 </button>
-                    <a class="navbar-brand" href="/home1"><img src="images/logofix.png" class="logo" alt=""></a>
+                    <a class="navbar-brand" href="/"><img src="images/logofix.png" class="logo" alt=""></a>
                 </div>
                 <!-- End Header Navigation -->
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="navbar-menu">
                     <ul class="nav navbar-nav ml-auto" data-in="fadeInDown" data-out="fadeOutUp">
-                        <li class="nav-item active"><a class="nav-link" href="/">About Us</a></li>
+                        <li class="nav-item active"><a class="nav-link" href="/home">About Us</a></li>
                         <li class="dropdown">
                             <a href="#" class="nav-link dropdown-toggle arrow" data-toggle="dropdown">Product</a>
                             <ul class="dropdown-menu">
@@ -113,10 +113,11 @@
                                 <li><a href="/market">Market</a></li>
                                 <li><a href="/food">Food</a></li>
                                 <li><a href="/fashion">Fashion</a></li><li><a href="/travel">Travel</a></li>
-                                <li><a href="/eksporimpor">Ekspor Impor</a></li>
+                                <li><a href="/eksporimpor">Ekspor Impor</a></li><li><a href="/divisi">Divisi</a></li>
                             </ul>
                         </li>
                         <li class="nav-item"><a class="nav-link" href="/innovation">Innovation</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/career">Career</a></li>
                     </ul>
                 </div>
                 <!-- /.navbar-collapse -->
@@ -139,7 +140,7 @@
     <!-- End Top Search -->
 
     <!-- Start All Title Box -->
-    <div class="all-title-box">
+    <div class="all-title-boxabout">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
